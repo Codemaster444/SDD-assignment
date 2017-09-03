@@ -1,0 +1,4 @@
+Controls:
+Use any key to jump
+
+Click the game to start

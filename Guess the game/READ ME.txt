@@ -1,0 +1,3 @@
+Controls:
+Click the game and guess the number 
+inbetween 1 and 20 until number you guess is correct
